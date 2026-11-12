@@ -1,0 +1,32 @@
+[2026-11-12T19:19:46.089Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.9f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 25372 --ipc-path Unity-Upm-25372 -l 2 --log-file 'C:\\Users\\domin\\Documents\\test-game\\Game Project/Logs/upm.log'
+[2026-11-12T19:19:46.115Z][INFO] IPC server started (IPC path=Unity-Upm-25372).
+[2026-11-12T19:19:46.115Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-25372.
+[2026-11-12T19:19:47.485Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-12T19:19:47.601Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-12T19:19:47.606Z][INFO] project:list-packages --> 200 (121 ms)
+[2026-11-12T19:19:47.607Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-12T19:19:47.611Z][INFO] config:project:get-registries --> 200 (9 ms)
+[2026-11-12T19:19:47.669Z][INFO] project:list-packages --> 200 (62 ms)
+[2026-11-12T19:20:09.231Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-12T19:20:09.266Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-12T19:20:09.328Z][INFO] project:list-packages --> 200 (97 ms)
+[2026-11-12T19:20:09.371Z][INFO] project:list-packages --> 200 (105 ms)
+[2026-11-12T19:20:09.508Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-11-12T19:20:09.513Z][INFO] config:project:get-registries --> 200 (5 ms)
+[2026-11-12T19:20:11.607Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.collab-proxy"
+}
+[2026-11-12T19:20:11.706Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-12T19:20:11.883Z][INFO] project:list-packages --> 200 (178 ms)
+[2026-11-12T19:20:12.326Z][INFO] packages:get-packageinfo --> 200 (718 ms)
+[2026-11-12T19:20:13.769Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-11-12T19:20:14.908Z][INFO] project:list-packages --> 200 (1139 ms)
