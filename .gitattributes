@@ -24,3 +24,4 @@ Game[[:space:]]Project/Library/ShaderCache/EditorEncounteredVariants filter=lfs 
 Game[[:space:]]Project/Library/SourceAssetDB-lock filter=lfs diff=lfs merge=lfs -text
 Game[[:space:]]Project/Library/ArtifactDB-lock filter=lfs diff=lfs merge=lfs -text
 Game[[:space:]]Project/Library/ScriptMapper filter=lfs diff=lfs merge=lfs -text
+*.aseprite filter=lfs diff=lfs merge=lfs -text
