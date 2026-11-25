@@ -25,3 +25,6 @@ Game[[:space:]]Project/Library/SourceAssetDB-lock filter=lfs diff=lfs merge=lfs 
 Game[[:space:]]Project/Library/ArtifactDB-lock filter=lfs diff=lfs merge=lfs -text
 Game[[:space:]]Project/Library/ScriptMapper filter=lfs diff=lfs merge=lfs -text
 *.aseprite filter=lfs diff=lfs merge=lfs -text
+*.dag_fsmtime filter=lfs diff=lfs merge=lfs -text
+*.map filter=lfs diff=lfs merge=lfs -text
+*.asset filter=lfs diff=lfs merge=lfs -text
